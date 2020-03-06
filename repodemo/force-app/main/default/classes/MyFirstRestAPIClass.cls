@@ -1,5 +1,5 @@
 @RestResource(urlMapping='/api/Account/*')
-//My first rest apex class in repo
+//My first rest apex class in repo (git)
 global with sharing class MyFirstRestAPIClass
 {
     @HttpGet
